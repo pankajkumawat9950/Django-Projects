@@ -1,0 +1,1 @@
+This in static text file for Django Project
